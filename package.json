@@ -1,0 +1,26 @@
+{
+  "name": "coodesh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelodoqa/coodesh.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcelodoqa/coodesh/issues"
+  },
+  "homepage": "https://github.com/marcelodoqa/coodesh#readme",
+  "devDependencies": {
+    "@faker-js/faker": "^10.3.0",
+    "@shelex/cypress-allure-plugin": "^2.41.2",
+    "allure-commandline": "^2.36.0",
+    "cypress": "^14.5.4"
+  }
+}
